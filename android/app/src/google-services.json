@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479183182838",
+    "project_id": "arwa1-4ce09",
+    "storage_bucket": "arwa1-4ce09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479183182838:android:a1412c651af7112574c5d7",
+        "android_client_info": {
+          "package_name": "com.example.arwa1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479183182838-8ei87p3q64okts5rgeutc4il3k8ml0gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH6IZQPdnaJpA84yjByH3BBhs3oZtQpD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479183182838-8ei87p3q64okts5rgeutc4il3k8ml0gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
